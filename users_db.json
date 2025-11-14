@@ -1,0 +1,1141 @@
+{
+  "shivashankar123": {
+    "password_hash": "$2b$12$H9.KzsyDHbMdveEK8uA02eXNIl1dVy/OPeWWwH8LQNLpOymmyplsK",
+    "email": "",
+    "created_at": "2025-11-13T19:03:58.216242",
+    "last_login": "2025-11-13T19:04:27.011920",
+    "profile": {
+      "age": 25,
+      "gender": "Male",
+      "height_cm": 170,
+      "weight_kg": 70.0,
+      "daily_steps": 8000,
+      "fitness_level": 0.5,
+      "goal": "Weight Loss",
+      "target_days": 30,
+      "target_weight_change": 3.0,
+      "fitness_level_name": "Intermediate"
+    },
+    "workout_history": [],
+    "meal_plans": [
+      {
+        "generated_at": "2025-11-13T19:04:46.316954",
+        "plan": {
+          "Day 1": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Sambar powder (Sambar masala)",
+                "calories": 297.5,
+                "protein": 12.5,
+                "carbs": 23.4,
+                "fats": 15.6,
+                "fiber": 34.6
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Maa chaane ki dal",
+                "calories": 344.7,
+                "protein": 19.8,
+                "carbs": 43.1,
+                "fats": 9.5,
+                "fiber": 13.4
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Wheat and gram flour ladoo (Atta besan ladoo)",
+                "calories": 501.7,
+                "protein": 9.4,
+                "carbs": 50.5,
+                "fats": 29.9,
+                "fiber": 6.0
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Coconut chutney (Nariyal ki chutney)",
+                "calories": 265.9,
+                "protein": 3.6,
+                "carbs": 8.3,
+                "fats": 25.0,
+                "fiber": 6.7
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Pav bhaji masala",
+                "calories": 230.5,
+                "protein": 9.1,
+                "carbs": 29.2,
+                "fats": 11.0,
+                "fiber": 24.3
+              }
+            ],
+            "total_calories": 1640.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 2": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Poshtik namak paras",
+                "calories": 613.4,
+                "protein": 6.5,
+                "carbs": 19.5,
+                "fats": 56.6,
+                "fiber": 4.6
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Moong bean dosa (Pesarattu)",
+                "calories": 286.0,
+                "protein": 12.3,
+                "carbs": 31.9,
+                "fats": 11.7,
+                "fiber": 6.0
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)",
+                "calories": 285.8,
+                "protein": 12.6,
+                "carbs": 22.6,
+                "fats": 16.8,
+                "fiber": 1.5
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Methi thepla",
+                "calories": 346.2,
+                "protein": 9.0,
+                "carbs": 41.3,
+                "fats": 16.0,
+                "fiber": 7.6
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Paneer parantha/paratha",
+                "calories": 263.0,
+                "protein": 8.0,
+                "carbs": 24.3,
+                "fats": 14.6,
+                "fiber": 4.0
+              }
+            ],
+            "total_calories": 1794.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 3": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Schezwan chutney",
+                "calories": 205.2,
+                "protein": 3.3,
+                "carbs": 10.8,
+                "fats": 17.7,
+                "fiber": 5.7
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Christmas bell biscuit",
+                "calories": 404.8,
+                "protein": 5.7,
+                "carbs": 60.8,
+                "fats": 15.8,
+                "fiber": 2.3
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Makki ki roti",
+                "calories": 264.0,
+                "protein": 3.5,
+                "carbs": 24.2,
+                "fats": 16.8,
+                "fiber": 5.2
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Bengal 5 Spice Blend (Panch Phoran)",
+                "calories": 289.8,
+                "protein": 18.3,
+                "carbs": 20.0,
+                "fats": 22.2,
+                "fiber": 18.4
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Christmas biscuit",
+                "calories": 406.1,
+                "protein": 5.7,
+                "carbs": 61.0,
+                "fats": 15.9,
+                "fiber": 2.2
+              }
+            ],
+            "total_calories": 1570.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 4": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Wheat flour and nuts ladoos (Atta nuts ladoos)",
+                "calories": 391.9,
+                "protein": 9.5,
+                "carbs": 44.3,
+                "fats": 19.2,
+                "fiber": 7.3
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney) ",
+                "calories": 346.4,
+                "protein": 12.9,
+                "carbs": 36.7,
+                "fats": 15.9,
+                "fiber": 13.2
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Rice flakes and roasted channa ",
+                "calories": 333.4,
+                "protein": 10.6,
+                "carbs": 71.9,
+                "fats": 2.9,
+                "fiber": 8.8
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Sajina",
+                "calories": 345.3,
+                "protein": 10.8,
+                "carbs": 66.9,
+                "fats": 3.0,
+                "fiber": 7.6
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+                "calories": 362.2,
+                "protein": 15.9,
+                "carbs": 64.8,
+                "fats": 5.1,
+                "fiber": 11.7
+              }
+            ],
+            "total_calories": 1779.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 5": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Flan pastry",
+                "calories": 445.8,
+                "protein": 6.7,
+                "carbs": 47.8,
+                "fats": 25.0,
+                "fiber": 1.6
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Peanut chutney (Mungfali ki chutney)",
+                "calories": 258.4,
+                "protein": 11.8,
+                "carbs": 9.9,
+                "fats": 19.1,
+                "fiber": 5.7
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Pearl millet infant food (Bajra shishu aahaar)",
+                "calories": 362.4,
+                "protein": 12.0,
+                "carbs": 62.1,
+                "fats": 6.6,
+                "fiber": 7.8
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Ginger biscuit (Adarak ke biscuit)",
+                "calories": 417.9,
+                "protein": 6.0,
+                "carbs": 58.4,
+                "fats": 18.3,
+                "fiber": 1.5
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Soya roti",
+                "calories": 284.0,
+                "protein": 9.2,
+                "carbs": 40.0,
+                "fats": 9.2,
+                "fiber": 8.7
+              }
+            ],
+            "total_calories": 1768.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 6": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Vegetable patties ",
+                "calories": 261.9,
+                "protein": 4.0,
+                "carbs": 21.0,
+                "fats": 17.7,
+                "fiber": 2.6
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Wheat flour and moong dal burfi (Atta aur moong dal ki burfi)",
+                "calories": 441.1,
+                "protein": 9.8,
+                "carbs": 60.0,
+                "fats": 18.4,
+                "fiber": 6.0
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Amaranth ladoo (Rajgira ladoo)",
+                "calories": 454.2,
+                "protein": 10.1,
+                "carbs": 51.3,
+                "fats": 22.7,
+                "fiber": 5.1
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Gun powder chutney",
+                "calories": 312.3,
+                "protein": 21.6,
+                "carbs": 47.6,
+                "fats": 2.7,
+                "fiber": 14.0
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Finger millet biscuit (Ragi biscuit)",
+                "calories": 458.6,
+                "protein": 4.0,
+                "carbs": 52.7,
+                "fats": 25.8,
+                "fiber": 6.0
+              }
+            ],
+            "total_calories": 1928.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          },
+          "Day 7": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Tandoori parantha/paratha",
+                "calories": 295.4,
+                "protein": 5.1,
+                "carbs": 30.7,
+                "fats": 16.5,
+                "fiber": 5.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Namkeen daliya",
+                "calories": 295.1,
+                "protein": 8.3,
+                "carbs": 49.3,
+                "fats": 8.0,
+                "fiber": 8.6
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Sesame biscuit (Til ke biscuit)",
+                "calories": 424.0,
+                "protein": 8.3,
+                "carbs": 53.6,
+                "fats": 19.3,
+                "fiber": 6.8
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Soyabean curry",
+                "calories": 163.3,
+                "protein": 10.4,
+                "carbs": 6.8,
+                "fats": 10.2,
+                "fiber": 7.3
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Plain dosa",
+                "calories": 380.9,
+                "protein": 10.3,
+                "carbs": 64.1,
+                "fats": 8.4,
+                "fiber": 5.2
+              }
+            ],
+            "total_calories": 1559.0,
+            "target_calories": 3346.0,
+            "calorie_adjustment": 300
+          }
+        }
+      },
+      {
+        "generated_at": "2025-11-13T19:05:06.743439",
+        "plan": {
+          "Day 1": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Rasam powder (Rasam masala)",
+                "calories": 268.0,
+                "protein": 12.0,
+                "carbs": 25.2,
+                "fats": 11.8,
+                "fiber": 35.7
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Gun powder chutney",
+                "calories": 312.3,
+                "protein": 21.6,
+                "carbs": 47.6,
+                "fats": 2.7,
+                "fiber": 14.0
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Jowar dosa",
+                "calories": 294.4,
+                "protein": 8.5,
+                "carbs": 40.5,
+                "fats": 10.3,
+                "fiber": 5.6
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Chickpeas curry (Safed channa curry)",
+                "calories": 163.4,
+                "protein": 6.1,
+                "carbs": 20.0,
+                "fats": 6.8,
+                "fiber": 4.7
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Chicken sandwich",
+                "calories": 253.3,
+                "protein": 13.1,
+                "carbs": 25.4,
+                "fats": 11.8,
+                "fiber": 1.6
+              }
+            ],
+            "total_calories": 1291.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 2": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Cucumber sandwich (Kheere ka sandwich)",
+                "calories": 188.6,
+                "protein": 4.8,
+                "carbs": 25.8,
+                "fats": 8.0,
+                "fiber": 2.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Spicy chutney sandwich",
+                "calories": 249.6,
+                "protein": 8.7,
+                "carbs": 34.0,
+                "fats": 9.6,
+                "fiber": 3.7
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich)",
+                "calories": 291.4,
+                "protein": 9.5,
+                "carbs": 28.5,
+                "fats": 16.1,
+                "fiber": 4.0
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Gram flour and semolina dhokla (Besan suji dhokla)",
+                "calories": 198.9,
+                "protein": 8.5,
+                "carbs": 25.9,
+                "fats": 7.1,
+                "fiber": 4.6
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)",
+                "calories": 216.5,
+                "protein": 5.5,
+                "carbs": 21.4,
+                "fats": 12.1,
+                "fiber": 4.4
+              }
+            ],
+            "total_calories": 1145.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 3": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Keema parantha/paratha",
+                "calories": 238.1,
+                "protein": 9.4,
+                "carbs": 18.4,
+                "fats": 13.9,
+                "fiber": 3.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Vegetable poha",
+                "calories": 180.5,
+                "protein": 4.9,
+                "carbs": 21.5,
+                "fats": 8.1,
+                "fiber": 3.8
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Chicken sandwich (toasted)",
+                "calories": 167.4,
+                "protein": 12.1,
+                "carbs": 18.8,
+                "fats": 5.3,
+                "fiber": 1.6
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Bengal 5 Spice Blend (Panch Phoran)",
+                "calories": 289.8,
+                "protein": 18.3,
+                "carbs": 20.0,
+                "fats": 22.2,
+                "fiber": 18.4
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)",
+                "calories": 285.8,
+                "protein": 12.6,
+                "carbs": 22.6,
+                "fats": 16.8,
+                "fiber": 1.5
+              }
+            ],
+            "total_calories": 1162.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 4": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Semolina idli (Suji/Rava idli)",
+                "calories": 206.4,
+                "protein": 9.3,
+                "carbs": 33.7,
+                "fats": 3.5,
+                "fiber": 5.8
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney) ",
+                "calories": 346.4,
+                "protein": 12.9,
+                "carbs": 36.7,
+                "fats": 15.9,
+                "fiber": 13.2
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Pav bhaji masala",
+                "calories": 230.5,
+                "protein": 9.1,
+                "carbs": 29.2,
+                "fats": 11.0,
+                "fiber": 24.3
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Paneer parantha/paratha",
+                "calories": 263.0,
+                "protein": 8.0,
+                "carbs": 24.3,
+                "fats": 14.6,
+                "fiber": 4.0
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Maa chaane ki dal",
+                "calories": 344.7,
+                "protein": 19.8,
+                "carbs": 43.1,
+                "fats": 9.5,
+                "fiber": 13.4
+              }
+            ],
+            "total_calories": 1391.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 5": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Khatta channa",
+                "calories": 202.6,
+                "protein": 6.3,
+                "carbs": 21.1,
+                "fats": 10.6,
+                "fiber": 5.3
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)",
+                "calories": 249.6,
+                "protein": 12.4,
+                "carbs": 24.0,
+                "fats": 12.0,
+                "fiber": 2.1
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Semolina dhokla (Suji/Rava dhokla)",
+                "calories": 194.9,
+                "protein": 5.4,
+                "carbs": 30.9,
+                "fats": 5.2,
+                "fiber": 5.1
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Gram flour chilla/cheela (Besan chilla/cheela)",
+                "calories": 135.9,
+                "protein": 7.8,
+                "carbs": 21.0,
+                "fats": 2.8,
+                "fiber": 4.2
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Peanut butter cucumber sandwich",
+                "calories": 243.3,
+                "protein": 9.0,
+                "carbs": 29.8,
+                "fats": 10.6,
+                "fiber": 3.4
+              }
+            ],
+            "total_calories": 1026.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 6": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Potato parantha/paratha (Aloo ka parantha/paratha)",
+                "calories": 205.0,
+                "protein": 3.7,
+                "carbs": 23.9,
+                "fats": 10.2,
+                "fiber": 4.2
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Masala dosa paneer fillings",
+                "calories": 243.1,
+                "protein": 10.3,
+                "carbs": 29.8,
+                "fats": 8.8,
+                "fiber": 3.1
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Black channa curry/Bengal gram curry (Kale chane ki curry)",
+                "calories": 140.7,
+                "protein": 5.7,
+                "carbs": 14.1,
+                "fats": 6.6,
+                "fiber": 8.0
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+                "calories": 362.2,
+                "protein": 15.9,
+                "carbs": 64.8,
+                "fats": 5.1,
+                "fiber": 11.7
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Soyabean curry",
+                "calories": 163.3,
+                "protein": 10.4,
+                "carbs": 6.8,
+                "fats": 10.2,
+                "fiber": 7.3
+              }
+            ],
+            "total_calories": 1114.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 7": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Khakhra",
+                "calories": 178.5,
+                "protein": 4.8,
+                "carbs": 27.7,
+                "fats": 5.3,
+                "fiber": 5.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Dal parantha/paratha",
+                "calories": 268.2,
+                "protein": 6.8,
+                "carbs": 30.0,
+                "fats": 13.0,
+                "fiber": 6.5
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Pea keema sandwich (toasted) (Matar aur keema ka sandwich)",
+                "calories": 171.8,
+                "protein": 11.1,
+                "carbs": 20.3,
+                "fats": 5.6,
+                "fiber": 2.4
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Poshtik chilla/cheela",
+                "calories": 159.5,
+                "protein": 4.8,
+                "carbs": 27.5,
+                "fats": 3.0,
+                "fiber": 4.9
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Soya roti",
+                "calories": 284.0,
+                "protein": 9.2,
+                "carbs": 40.0,
+                "fats": 9.2,
+                "fiber": 8.7
+              }
+            ],
+            "total_calories": 1062.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          }
+        }
+      },
+      {
+        "generated_at": "2025-11-13T19:05:12.340020",
+        "plan": {
+          "Day 1": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Rasam powder (Rasam masala)",
+                "calories": 268.0,
+                "protein": 12.0,
+                "carbs": 25.2,
+                "fats": 11.8,
+                "fiber": 35.7
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Gun powder chutney",
+                "calories": 312.3,
+                "protein": 21.6,
+                "carbs": 47.6,
+                "fats": 2.7,
+                "fiber": 14.0
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Jowar dosa",
+                "calories": 294.4,
+                "protein": 8.5,
+                "carbs": 40.5,
+                "fats": 10.3,
+                "fiber": 5.6
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Chickpeas curry (Safed channa curry)",
+                "calories": 163.4,
+                "protein": 6.1,
+                "carbs": 20.0,
+                "fats": 6.8,
+                "fiber": 4.7
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Chicken sandwich",
+                "calories": 253.3,
+                "protein": 13.1,
+                "carbs": 25.4,
+                "fats": 11.8,
+                "fiber": 1.6
+              }
+            ],
+            "total_calories": 1291.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 2": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Cucumber sandwich (Kheere ka sandwich)",
+                "calories": 188.6,
+                "protein": 4.8,
+                "carbs": 25.8,
+                "fats": 8.0,
+                "fiber": 2.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Spicy chutney sandwich",
+                "calories": 249.6,
+                "protein": 8.7,
+                "carbs": 34.0,
+                "fats": 9.6,
+                "fiber": 3.7
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich)",
+                "calories": 291.4,
+                "protein": 9.5,
+                "carbs": 28.5,
+                "fats": 16.1,
+                "fiber": 4.0
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Gram flour and semolina dhokla (Besan suji dhokla)",
+                "calories": 198.9,
+                "protein": 8.5,
+                "carbs": 25.9,
+                "fats": 7.1,
+                "fiber": 4.6
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)",
+                "calories": 216.5,
+                "protein": 5.5,
+                "carbs": 21.4,
+                "fats": 12.1,
+                "fiber": 4.4
+              }
+            ],
+            "total_calories": 1145.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 3": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Keema parantha/paratha",
+                "calories": 238.1,
+                "protein": 9.4,
+                "carbs": 18.4,
+                "fats": 13.9,
+                "fiber": 3.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Vegetable poha",
+                "calories": 180.5,
+                "protein": 4.9,
+                "carbs": 21.5,
+                "fats": 8.1,
+                "fiber": 3.8
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Chicken sandwich (toasted)",
+                "calories": 167.4,
+                "protein": 12.1,
+                "carbs": 18.8,
+                "fats": 5.3,
+                "fiber": 1.6
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Bengal 5 Spice Blend (Panch Phoran)",
+                "calories": 289.8,
+                "protein": 18.3,
+                "carbs": 20.0,
+                "fats": 22.2,
+                "fiber": 18.4
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)",
+                "calories": 285.8,
+                "protein": 12.6,
+                "carbs": 22.6,
+                "fats": 16.8,
+                "fiber": 1.5
+              }
+            ],
+            "total_calories": 1162.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 4": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Semolina idli (Suji/Rava idli)",
+                "calories": 206.4,
+                "protein": 9.3,
+                "carbs": 33.7,
+                "fats": 3.5,
+                "fiber": 5.8
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney) ",
+                "calories": 346.4,
+                "protein": 12.9,
+                "carbs": 36.7,
+                "fats": 15.9,
+                "fiber": 13.2
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Pav bhaji masala",
+                "calories": 230.5,
+                "protein": 9.1,
+                "carbs": 29.2,
+                "fats": 11.0,
+                "fiber": 24.3
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Paneer parantha/paratha",
+                "calories": 263.0,
+                "protein": 8.0,
+                "carbs": 24.3,
+                "fats": 14.6,
+                "fiber": 4.0
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Maa chaane ki dal",
+                "calories": 344.7,
+                "protein": 19.8,
+                "carbs": 43.1,
+                "fats": 9.5,
+                "fiber": 13.4
+              }
+            ],
+            "total_calories": 1391.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 5": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Khatta channa",
+                "calories": 202.6,
+                "protein": 6.3,
+                "carbs": 21.1,
+                "fats": 10.6,
+                "fiber": 5.3
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)",
+                "calories": 249.6,
+                "protein": 12.4,
+                "carbs": 24.0,
+                "fats": 12.0,
+                "fiber": 2.1
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Semolina dhokla (Suji/Rava dhokla)",
+                "calories": 194.9,
+                "protein": 5.4,
+                "carbs": 30.9,
+                "fats": 5.2,
+                "fiber": 5.1
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Gram flour chilla/cheela (Besan chilla/cheela)",
+                "calories": 135.9,
+                "protein": 7.8,
+                "carbs": 21.0,
+                "fats": 2.8,
+                "fiber": 4.2
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Peanut butter cucumber sandwich",
+                "calories": 243.3,
+                "protein": 9.0,
+                "carbs": 29.8,
+                "fats": 10.6,
+                "fiber": 3.4
+              }
+            ],
+            "total_calories": 1026.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 6": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Potato parantha/paratha (Aloo ka parantha/paratha)",
+                "calories": 205.0,
+                "protein": 3.7,
+                "carbs": 23.9,
+                "fats": 10.2,
+                "fiber": 4.2
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Masala dosa paneer fillings",
+                "calories": 243.1,
+                "protein": 10.3,
+                "carbs": 29.8,
+                "fats": 8.8,
+                "fiber": 3.1
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Black channa curry/Bengal gram curry (Kale chane ki curry)",
+                "calories": 140.7,
+                "protein": 5.7,
+                "carbs": 14.1,
+                "fats": 6.6,
+                "fiber": 8.0
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+                "calories": 362.2,
+                "protein": 15.9,
+                "carbs": 64.8,
+                "fats": 5.1,
+                "fiber": 11.7
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Soyabean curry",
+                "calories": 163.3,
+                "protein": 10.4,
+                "carbs": 6.8,
+                "fats": 10.2,
+                "fiber": 7.3
+              }
+            ],
+            "total_calories": 1114.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          },
+          "Day 7": {
+            "meals": [
+              {
+                "meal_type": "Breakfast",
+                "dish_name": "Khakhra",
+                "calories": 178.5,
+                "protein": 4.8,
+                "carbs": 27.7,
+                "fats": 5.3,
+                "fiber": 5.4
+              },
+              {
+                "meal_type": "Mid-Morning Snack",
+                "dish_name": "Dal parantha/paratha",
+                "calories": 268.2,
+                "protein": 6.8,
+                "carbs": 30.0,
+                "fats": 13.0,
+                "fiber": 6.5
+              },
+              {
+                "meal_type": "Lunch",
+                "dish_name": "Pea keema sandwich (toasted) (Matar aur keema ka sandwich)",
+                "calories": 171.8,
+                "protein": 11.1,
+                "carbs": 20.3,
+                "fats": 5.6,
+                "fiber": 2.4
+              },
+              {
+                "meal_type": "Evening Snack",
+                "dish_name": "Poshtik chilla/cheela",
+                "calories": 159.5,
+                "protein": 4.8,
+                "carbs": 27.5,
+                "fats": 3.0,
+                "fiber": 4.9
+              },
+              {
+                "meal_type": "Dinner",
+                "dish_name": "Soya roti",
+                "calories": 284.0,
+                "protein": 9.2,
+                "carbs": 40.0,
+                "fats": 9.2,
+                "fiber": 8.7
+              }
+            ],
+            "total_calories": 1062.0,
+            "target_calories": 1276.0,
+            "calorie_adjustment": -500
+          }
+        }
+      }
+    ],
+    "progress_logs": [
+      {
+        "date": "2025-11-13T19:06:51.989700",
+        "weight": 70.0,
+        "workout_completed": false,
+        "calories_consumed": 2000,
+        "water_intake": 2.0,
+        "notes": ""
+      }
+    ],
+    "updated_at": "2025-11-13T19:06:51.996716"
+  }
+}
